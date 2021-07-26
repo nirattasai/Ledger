@@ -1,19 +1,4 @@
-# ledger
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+การรัน program 
+1. cd เข้าที่ folder ledger
+2. รันคำสั่ง npm install เพื่อ install package ต่างๆ
+3. รันคำสั่ง num run serve เพื่อรัน project
